@@ -1,0 +1,21 @@
+One second audio: 44100 Hz / 1 channels / 64 samples = 4.49654 ms
+One second audio: 44100 Hz / 1 channels / 128 samples = 3.22576 ms
+One second audio: 44100 Hz / 1 channels / 2048 samples = 3.32838 ms
+One second audio: 44100 Hz / 2 channels / 64 samples = 5.3271 ms
+One second audio: 44100 Hz / 2 channels / 128 samples = 5.29867 ms
+One second audio: 44100 Hz / 2 channels / 2048 samples = 5.208 ms
+One second audio: 48000 Hz / 1 channels / 64 samples = 3.4875 ms
+One second audio: 48000 Hz / 1 channels / 128 samples = 3.46461 ms
+One second audio: 48000 Hz / 1 channels / 2048 samples = 3.42616 ms
+One second audio: 48000 Hz / 2 channels / 64 samples = 5.78037 ms
+One second audio: 48000 Hz / 2 channels / 128 samples = 5.79837 ms
+One second audio: 48000 Hz / 2 channels / 2048 samples = 5.69527 ms
+One second audio: 96000 Hz / 1 channels / 64 samples = 6.94786 ms
+One second audio: 96000 Hz / 1 channels / 128 samples = 6.85545 ms
+One second audio: 96000 Hz / 1 channels / 2048 samples = 6.76505 ms
+One second audio: 96000 Hz / 2 channels / 64 samples = 11.5371 ms
+One second audio: 96000 Hz / 2 channels / 128 samples = 11.4279 ms
+One second audio: 96000 Hz / 2 channels / 2048 samples = 11.3267 ms
+Third harmonic amplitude: 0.0565349
+Vocal analysis: -14.1293 dBFS, crest 10.393 dB
+PASS: DSP, allocation, real voice, assistant, presets and state.
